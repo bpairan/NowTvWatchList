@@ -1,0 +1,9 @@
+
+# Routes
+GET     /watchlist/view                  com.sky.nowtv.watchlist.controllers.WatchListController.viewWatchlist
+
+POST    /watchlist/add                  com.sky.nowtv.watchlist.controllers.WatchListController.addWatchList
+
+POST    /watchlist/delete               com.sky.nowtv.watchlist.controllers.WatchListController.deleteWatchList
+
+      
