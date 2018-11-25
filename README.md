@@ -18,7 +18,7 @@ This application was developed using IntelliJ IDEA targeted to run in a Java 8 V
  
 JDK 1.8.0_181
 
-SBT 1.1.6
+SBT 1.2.1
 
 Scala 2.12
 
